@@ -49,3 +49,10 @@ https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastap
 ### Advanced Example
 - [Django - Celery Worker](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_celery_worker)
 - [Django - Pytest with bakery](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_pytest_with_bakery)
+
+## DRF(Django REST framework)
+### Basic Example
+- [DRF - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_minimal)
+- [DRF - OpenAPI Specification(Swagger)](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_swagger)
+- [DRF - CRUD](https://github.com/taptorestart/python-backend-examples/tree/main/drf/drf_crud)
+
