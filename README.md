@@ -39,3 +39,9 @@ https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastap
 
 ### Base Project Example
 - [FastAPI - Email Login with Password(and hashing), Bearer with JWT Token, ORM with MySQL](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_email_login_jwt_mysql)
+
+
+## Django
+### Basic Example
+- [Django - Minimal](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_minimal)
+- [Django - Admin and Register app's model](https://github.com/taptorestart/python-backend-examples/tree/main/django/django_admin_register_app)
