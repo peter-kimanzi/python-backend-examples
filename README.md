@@ -30,3 +30,8 @@ https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastap
 
 ### [Deployment](https://fastapi.tiangolo.com/deployment/) Example
 - [FastAPI - Docker](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_docker)
+
+### Additional Example
+- [FastAPI - ORM with MySQL](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_orm_mysql)
+- [FastAPI - API Router](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_api_router)
+- [FastAPI - Cache with Redis](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_cache_redis)
