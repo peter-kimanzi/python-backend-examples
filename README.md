@@ -24,3 +24,6 @@ https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastap
 - [FastAPI - OAuth2 with Password (and hashing), Bearer with JWT tokens](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_oauth2_jwt)
 - [FastAPI - Static Files](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_static)
 - [FastAPI - Testing](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_testing)
+
+### [Advanced](https://fastapi.tiangolo.com/advanced/) User Guide Example
+- [FastAPI - Templates](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_templates)
