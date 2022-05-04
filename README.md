@@ -27,3 +27,6 @@ https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastap
 
 ### [Advanced](https://fastapi.tiangolo.com/advanced/) User Guide Example
 - [FastAPI - Templates](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_templates)
+
+### [Deployment](https://fastapi.tiangolo.com/deployment/) Example
+- [FastAPI - Docker](https://github.com/taptorestart/python-backend-examples/tree/main/fastapi/fastapi_docker)
