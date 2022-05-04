@@ -7,3 +7,6 @@
 - [Flask - ORM](https://github.com/taptorestart/python-backend-examples/tree/main/flask/flask_orm)
 - [Flask - File Upload](https://github.com/taptorestart/python-backend-examples/tree/main/flask/flask_file_upload)
 - [Flask - Ajax](https://github.com/taptorestart/python-backend-examples/tree/main/flask/flask_ajax)
+
+## FastAPI
+### [Tutorial](https://fastapi.tiangolo.com/tutorial/) User Guide Example
